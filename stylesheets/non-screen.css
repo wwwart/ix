@@ -3,12 +3,12 @@ a#forkme_banner {
 }
 
 div.shell {
-  width: 640px;
+  width: 1280px;
 }
 
 
 header {
-  max-width:640px;
+  max-width:1280px;
   margin: 0;
   top: 51px;
 }
@@ -61,7 +61,7 @@ section#main_content {
 }
 
 footer {
-  max-width:640px;
+  max-width:1280px;
   background: none;
 }
 
